@@ -8,7 +8,7 @@ const DescriptionBox = () => {
             <div className="descriptionbox-nav-box">Description</div>
             <div className="descriptionbox-nav-box fade">Reviews(122)</div>
         </div>
-        <div className="discriptionbox-description">
+        <div className="descriptionbox-description">
             <p>
                 Experience refined shopping at its finest. Our collection is thoughtfully curated to bring you products that embody elegance, superior craftsmanship, and timeless quality. Every detail—from selection to packaging—is designed to reflect sophistication and exclusivity. We believe luxury is not just about appearance, but about excellence, trust, and an exceptional experience delivered consistently. Discover pieces that elevate your lifestyle and redefine everyday indulgence.
             </p>
